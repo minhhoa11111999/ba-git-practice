@@ -7,3 +7,6 @@
 
 ## 2. Checklist Feature
 Inspector can view and submit audit checklist.
+### 2.1 Mandatory Rule
+- Inspector must complete all mandatory items before submission
+
